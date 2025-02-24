@@ -7,7 +7,7 @@
   ],
   "initRecipes": [
     {
-      "name": "org.openrewrite.staticanalysis.JavaApiBestPractices"
+      "name": "org.openrewrite.staticanalysis.CommonStaticAnalysis"
     }
   ],
   "projects": []
