@@ -7,7 +7,7 @@
   ],
   "initRecipes": [
     {
-      "name": "org.openrewrite.staticanalysis.CommonStaticAnalysis"
+      "name": "org.openrewrite.staticanalysis.SimplifyBooleanReturn"
     }
   ],
   "projects": []
