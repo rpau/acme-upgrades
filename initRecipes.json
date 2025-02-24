@@ -1,0 +1,13 @@
+{
+  "rewriteArtifacts": [
+    {
+      "coordinates": "org.openrewrite.recipe:rewrite-static-analysis::1.21.1",
+      "minimalJavaVersion": "8"
+    }
+  ]
+  "initRecipes": [
+    {
+      "name": "org.openrewrite.staticanalysis.CommonStaticAnalysis"
+    }
+  ]
+}
