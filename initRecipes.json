@@ -9,5 +9,6 @@
     {
       "name": "org.openrewrite.staticanalysis.CommonStaticAnalysis"
     }
-  ]
+  ],
+  "projects": []
 }
